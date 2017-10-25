@@ -1,0 +1,26 @@
+header {
+    
+    background:  #777;
+    padding:  20px;
+    margin-bottom:  20px
+}
+
+section {
+    
+    background:  #777;
+    padding:  20px;
+    margin-bottom:  20px
+}
+
+#left  {
+    
+    float: left
+    
+}
+
+
+#right  {
+    
+    float: right
+    
+}
